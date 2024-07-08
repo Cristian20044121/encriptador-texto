@@ -1,0 +1,16 @@
+:root {
+  --background-page: rgb(74, 39, 101);
+}
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background: var(--background-page);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container-text-encriptado {
+  height: 600px;
+}
